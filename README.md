@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Making stuff
+Processing and p5.js <3
+Find my work on https://limhogun03.wixsite.com/manualoverride
 <!--
 **un6oH/un6oH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
